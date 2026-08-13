@@ -42,6 +42,13 @@ Customer attrition in subscription telecom services directly degrades recurring 
 
 ---
 
+## Visual Model Evaluation & Feature Drivers
+
+| Top Churn Drivers | Logistic Regression Confusion Matrix |
+| :---: | :---: |
+| ![Feature Importance](images/feature_importance.png) | ![Confusion Matrix](images/confusion_matrix.png) |
+
+---
 ## Key Performance Results
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
