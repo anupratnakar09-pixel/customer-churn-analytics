@@ -1,0 +1,11 @@
+customer_id,tenure_months,monthly_charges,total_charges,contract_type,paperless_billing,payment_method,tech_support,churn
+7590-WBEN6,1,29.85,29.85,Month-to-month,Yes,Electronic check,No,Yes
+5575-GNVDE,34,56.95,1889.50,One year,No,Mailed check,Yes,No
+3668-QVRZG,2,53.85,108.15,Month-to-month,Yes,Mailed check,No,Yes
+7795-CFOCW,45,42.30,1840.75,One year,No,Bank transfer,Yes,No
+9237-HQJSL,2,70.70,151.65,Month-to-month,Yes,Electronic check,No,Yes
+9305-CDSKC,8,99.65,820.50,Month-to-month,Yes,Electronic check,No,Yes
+1452-KTVXH,22,89.10,1949.40,Two year,Yes,Credit card,Yes,No
+6713-OKOMC,10,29.75,301.90,Month-to-month,No,Mailed check,No,No
+7892-POOKP,28,104.80,3046.05,Month-to-month,Yes,Electronic check,Yes,Yes
+6388-TABGU,62,56.15,3487.95,One year,No,Bank transfer,Yes,No
